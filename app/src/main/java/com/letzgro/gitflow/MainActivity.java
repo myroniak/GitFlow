@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
 
     TextView textView;
     Button button;
+    Button jlabrflkqerbfqernqejklrfb;
+    Button myfeature;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
