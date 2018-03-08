@@ -26,14 +26,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        String string = "aslkfjnskjb";
-
-
-        String newTask = "newTask";
-
-        String newFeature = "newFeature";
-
-        String newFeasdfghjkature = "newFeasdfghjkature";
-
+        String dafq="wfve";
     }
 }
