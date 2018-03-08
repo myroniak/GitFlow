@@ -10,9 +10,6 @@ public class MainActivity extends AppCompatActivity {
 
     TextView textView;
     Button button;
-    Button jlabrflkqerbfqernqejklrfb;
-    Button myfeature;
-    Button khkh;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,5 +30,10 @@ public class MainActivity extends AppCompatActivity {
 
 
         String newTask = "newTask";
+
+        String newFeature = "newFeature";
+
+        String newFeasdfghjkature = "newFeasdfghjkature";
+
     }
 }
