@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     Button button;
     Button jlabrflkqerbfqernqejklrfb;
     Button myfeature;
+    Button khkh;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,5 +28,7 @@ public class MainActivity extends AppCompatActivity {
                 textView.setText("Feature 1");
             }
         });
+
+        String string = "aslkfjnskjb";
     }
 }
