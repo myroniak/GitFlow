@@ -30,5 +30,8 @@ public class MainActivity extends AppCompatActivity {
         });
 
         String string = "aslkfjnskjb";
+
+
+        String newTask = "newTask";
     }
 }
